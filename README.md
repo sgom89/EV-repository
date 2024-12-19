@@ -1,4 +1,4 @@
-In this repository is included the following:
-My report for university
-An excel file that contains Raw data 
-PowerBi file with all the visualizations
+This report provides a comprehensive overview of how BI capabilities can support core business processes, enable insightful analytics, and guide better decisions in line with legal and ethical regulations.
+The first section examines key business processes, associated supporting activities, data inputs, and BI software applications that can optimize workflows. A comparison of popular BI tools and platforms follows, contrasting their functionalities for aggregating, analysing and visualizing data to aid business users and senior management.
+Practical demonstration of identifying target markets using BI technologies is presented next. This applies carbon emissions and macroeconomic datasets to rank suitable countries for a fictional electric vehicle manufacturer’s expansion plan.
+Finally, the relationship between data-supported decision automation through BI systems versus human-centered management discretion is discussed. Evaluation criteria are provided to assess BI tools on the effectiveness of their embedded controls, transparency, and organizational learning - important for ethical governance and legal compliance.
